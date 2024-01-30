@@ -1,6 +1,6 @@
-varible "ami" {
+varibale "ami" {
     default = "ami-03f4878755434977f "
 }
-verible "instance_type" {
+veribale "instance_type" {
     default = "t2.micro"
 }
